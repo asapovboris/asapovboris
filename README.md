@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @asapovboris
-- 👀 I’m interested in Python Programming, DevOps, Linux
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asapovboris@gmail.com
 
 <!---
